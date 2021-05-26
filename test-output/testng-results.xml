@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="29634" started-at="2020-05-07T14:41:02 CDT" finished-at="2020-05-07T14:41:32 CDT">
+    <groups>
+    </groups>
+    <test name="CalculatorAndroidTest" duration-ms="29634" started-at="2020-05-07T14:41:02 CDT" finished-at="2020-05-07T14:41:32 CDT">
+      <class name="com.herokuapp.tests.CalculatorTests">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.herokuapp.tests.CalculatorTests@536aaa8d]" name="beforeMethod" is-config="true" duration-ms="21858" started-at="2020-05-07T14:41:02 CDT" finished-at="2020-05-07T14:41:24 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="OpenCalculator()[pri:0, instance:com.herokuapp.tests.CalculatorTests@536aaa8d]" name="OpenCalculator" duration-ms="7751" started-at="2020-05-07T14:41:24 CDT" finished-at="2020-05-07T14:41:32 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenCalculator -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.herokuapp.tests.CalculatorTests@536aaa8d]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-05-07T14:41:32 CDT" finished-at="2020-05-07T14:41:32 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.herokuapp.tests.CalculatorTests -->
+    </test> <!-- CalculatorAndroidTest -->
+  </suite> <!-- TestSuite -->
+</testng-results>
